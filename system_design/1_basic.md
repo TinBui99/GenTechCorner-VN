@@ -12,17 +12,17 @@ thiết kế.
 
 ## Three Pillars of System Design
 
-### 1. **Scalability**
+### 1. **Scalability (Khả năng mở rộng)**
 
 -   Khả năng phát triển để xử lý tải người dùng tăng liên tục.
 -   Hạn chế lỗi khi hệ thống gặp traffic spike đột biến.
 
-### 2. **Reliability**
+### 2. **Reliability (Độ sẵn sàng)**
 
 -   Hệ thống hoạt động ổn định 24/7.
 -   Tránh downtime và duy trì tính sẵn sàng.
 
-### 3. **Performance**
+### 3. **Performance (Hiệu suất)**
 
 -   Cải thiện tốc độ và khả năng phản hồi của hệ thống.
 -   Giảm độ trễ và tăng trải nghiệm người dùng.
