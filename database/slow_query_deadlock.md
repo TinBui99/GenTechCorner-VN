@@ -274,7 +274,8 @@ actual time → Sự thật
 👉 Senior dev chỉ tin actual time
 
 4️⃣ Join Method
-Join Method	Khi nào tốt
+| Join Method	| Khi nào tốt|
+|------|------|
 | Nested Loop |	Dataset nhỏ |
 | Hash Join	| Join lớn, không index|
 | Merge Join	| Có index & dữ liệu đã sort |
@@ -302,11 +303,9 @@ Actual time tăng theo cấp số nhân
 ✅ Query Plan là sự thật duy nhất
 
 ### 6.8 Kết luận
-Query nhanh hay chậm không nằm ở SQL đẹp
-
-Nằm ở Query Plan
-
-Biết đọc EXPLAIN = bước chuyển từ mid → senior
+> Query nhanh hay chậm không nằm ở SQL đẹp
+> Nằm ở Query Plan
+> Biết đọc EXPLAIN = bước chuyển từ mid → senior
 
 
 ## 7. Điều khiến hệ thống thực sự sập?
