@@ -69,6 +69,24 @@ kỳ quốc gia nào.
 
 ------------------------------------------------------------------------
 
+### Tại sao không chỉ dùng CDN mà cần data center toàn cầu?
+
+❌ CDN không thể thay thế data center, vì:
+
+CDN không xử lý:
+
+- Permission
+- Private image (chỉ public data)
+- Business logic
+
+✅ Data center:
+
+- Là bộ não + kho dữ liệu
+- CDN chỉ là cache thông minh
+
+
+------------------------------------------------------------------------
+
 ## Summary
 
 -   **Scalability -- Reliability -- Performance** là ba trụ cột nền tảng
